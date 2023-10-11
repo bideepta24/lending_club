@@ -5,4 +5,4 @@ This lending loan case study is analysis of lended loans by a financial service 
 
 ### file access:
 1. PPT has been shared explaining the case analysis
-2. link of python script shared below, used for preparing all the charts
+2. link of python script shared which is used for preparing all the charts
